@@ -1,4 +1,9 @@
+#shortcut conventions for list an set
+#list = [] and for set ={}
 items = [1,2,3,4,5,6,7,8,9,10]
+
+#initialize using list constructor
+#may have also used reversedItems = []
 reversedItems = list()
 
 #using custom reverse logic 
